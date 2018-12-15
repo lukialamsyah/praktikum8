@@ -311,3 +311,4 @@ cout<<endl<<endl;
 system("PAUSE");
 return EXIT_SUCCESS;
 }# praktikum8
+# praktikum8
